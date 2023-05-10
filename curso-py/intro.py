@@ -1,4 +1,4 @@
 """Introducción."""
 
 print("Hola mundo!")
-print("El weta " * 4)
+print("El weta " * 3)
